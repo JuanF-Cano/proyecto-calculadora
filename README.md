@@ -7,5 +7,6 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 
 Instalar Módulos
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando npm install en el terminal
+Pra el correcto funcionamiento también hay que instalar el mathjs, ejecutando el comando npm install mathjs en el terminal
 
 visualización en vivo: https://main--peppy-sable-920168.netlify.app/
